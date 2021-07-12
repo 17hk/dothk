@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Harshit. If you are a non-hindi speaker wondering how to pronounce my name then watch (this)[https://youtu.be/iMAFfiIljQA] video
+I am Harshit. If you are a non-hindi speaker wondering how to pronounce my name then watch [this](https://youtu.be/iMAFfiIljQA) video
 
-Currently working on a basic manga reader telegram bot. (Repo)[]
+Currently working on a basic manga reader telegram bot. [Repo]()
 
 I know basic python and C Language
 
