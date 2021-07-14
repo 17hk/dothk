@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 
 
-##### Contact
+#### Contact
 
 - Telegram ([@lifesukcs](https://t.me/lifesukcs))
 
-##### Familiar Languagues and Tools
+#### Familiar Languagues and Tools
 - C
 - Python
