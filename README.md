@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 
 - Telegram ([@lifesukcs](https://t.me/lifesukcs))
 
+##### Familiar Languagues and Tools
+- C
+- Python
