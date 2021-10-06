@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 #### Familiar Languagues and Tools
 - C
 - Python
+
+[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kareshi0)](https://github.com/anuraghazra/github-readme-stats)
