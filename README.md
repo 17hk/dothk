@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #### Contact
 
-- Discord (Kareshi#1864)
+- ~~Discord (Kareshi#1864)~~
 - Telegram ([@lifesukcs](https://t.me/lifesukcs))
 
 #### Familiar Languagues and Tools
