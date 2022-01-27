@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 - I am Harshit[.](https://youtu.be/iMAFfiIljQA)
 - I currently learning JavaScript and web programming.
-- 
 
 
 
