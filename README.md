@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I am Harshit. [Name pronounciation](https://youtu.be/iMAFfiIljQA)
+- I am Harshit[.](https://youtu.be/iMAFfiIljQA)
 
 
 
