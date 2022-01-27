@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I am Harshit[.](https://youtu.be/iMAFfiIljQA)
+- I currently learning JavaScript and web programming.
+- 
 
 
 
 
-#### Familiar Languagues and Tools
+<!-- #### Familiar Languagues and Tools
 - C
 - Python
-
+-->
 
