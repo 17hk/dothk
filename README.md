@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'mm Harshit[.](https://youtu.be/iMAFfiIljQA)
+- I'm Harshit[.](https://youtu.be/iMAFfiIljQA)
 - I'm currently learning JavaScript and web programming.
 
 
